@@ -51,6 +51,5 @@ License
 
 This project is licensed under the MIT License.
 
-Feel free to customize this README template to fit the specifics of your project. Make sure to replace placeholders such as [repository_url], [link to dataset], and provide detailed information about your model, evaluation metrics, and results. Good luck with your "Big Mart Sales Prediction" project!
-Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ChatGPT August 3 Version
+
 
