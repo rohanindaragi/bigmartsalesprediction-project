@@ -35,21 +35,6 @@ Usage
 
     Prediction: Once the model is trained, it can be used to make predictions on the test dataset. The predictions can be used to evaluate the model's performance and generate insights.
 
-Model
-
-The model architecture used for this project is [describe the model architecture here, including any hyperparameters].
-Evaluation
-
-The performance of the model is evaluated using [describe the evaluation metrics used, e.g., Mean Squared Error (MSE) or Root Mean Squared Error (RMSE)].
-Results
-
-[Discuss the results obtained from the model, including any insights gained and the model's performance on the test dataset.]
-Contributing
-
-Contributions to this project are welcome. If you find any issues or want to add improvements, feel free to open a pull request. Please follow the existing coding style and guidelines.
-License
-
-This project is licensed under the MIT License.
 
 
 
